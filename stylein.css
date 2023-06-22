@@ -16,6 +16,7 @@ a {
 	text-decoration: none;
 	cursor: pointer;
 	color: inherit;
+	font-size: 35px;
 }
 a:hover{
     color: #0a83bf;
